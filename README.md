@@ -75,3 +75,9 @@ with ui.card(full_screen=True):
         # Create a Plotly scatterplot using Plotly Express
         # Call px.scatter() function
         # Pass in six arguments:
+
+
+![Screenshot 2025-06-28 183751](https://github.com/user-attachments/assets/e58c862c-9ea2-470e-a05d-fe97a360db92)
+![Screenshot 2025-06-28 121559](https://github.com/user-attachments/assets/3e3b766d-b654-4a16-ada7-99c4dde89139)
+
+
